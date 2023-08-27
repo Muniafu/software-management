@@ -1,0 +1,1 @@
+export const getStudentName = (studet) => '${student.firstName} ${student.lastName}';
