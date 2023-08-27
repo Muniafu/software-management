@@ -1,1 +1,1 @@
-export const getStudentName = (studet) => '${student.firstName} ${student.lastName}';
+export const getStudentName = (student) => '${student.firstName} ${student.lastName}';
